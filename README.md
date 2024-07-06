@@ -1,4 +1,4 @@
-**Data-to-Decisions-Qlik-Journey-through-LendingClub-Issued-Loans-Analysis**
+***Data-to-Decisions-Qlik-Journey-through-LendingClub-Issued-Loans-Analysis***
 
 project video end to end demostration --- https://drive.google.com/file/d/1nPIhradCV89-hZMopWDbqqRk0gwI3DXG/view?usp=sharing
 
